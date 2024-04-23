@@ -1,0 +1,17 @@
+.first {
+  animation: 1.5s ease-out 0s 1 slideInLeft;
+  display: flex;
+  gap: 5%;
+  align-items: center;
+  padding-bottom: 10%;
+}
+
+.first h2 {
+  line-height: 90px;
+  font-size: 35px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.works {
+  animation: 1.5s ease-out 0s 1 slideInLeft;
+}
